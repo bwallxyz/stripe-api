@@ -1,0 +1,6 @@
+POST http://localhost:3030/create-checkout-session
+Content-Type: application/json
+
+{
+    
+}
